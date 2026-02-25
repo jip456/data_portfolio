@@ -1,2 +1,13 @@
-# data_portfolio
-Data analysis portfolio showcasing end-to-end projects in SQL and Python. Includes data cleaning, modeling, exploratory analysis, and visualization with a focus on clear insights and business impact.
+# Data & Insight Analytics Portfolio
+
+Senior/Lead Data & Insight Analyst portfolio showcasing advanced SQL, Python, and Power BI expertise.
+
+This repository features end-to-end analytics projects focused on transforming complex data into strategic, decision-driving insights.
+
+## Core Capabilities
+- Advanced SQL analytics & scalable data transformation
+- Python for analysis, automation, and modelling
+- Executive-level dashboards & visual storytelling (Power BI)
+- Insight communication aligned to commercial impact
+
+Each project demonstrates structured problem solving, clean logic, and business-focused recommendations.
